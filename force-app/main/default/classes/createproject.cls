@@ -7,6 +7,6 @@ public class createproject {
 
     // Method to greet a user
     public String greetUser(String name) {
-        return 'Hello, ' + name + '! Welcome to new Salesforce Apex!';
+        return 'Hello, ' + name + '! Welcome to almost new Salesforce Apex!';
     }
 }
